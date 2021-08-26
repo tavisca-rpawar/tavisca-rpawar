@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @tavisca-rpawar
+- 👋 Hi, I’m Rupika Pawar
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning angular
